@@ -1,0 +1,6 @@
+com/mypharmaalphax/starhub/controller/AuthController.class
+com/mypharmaalphax/starhub/service/impl/UserDetailsServiceImpl.class
+com/mypharmaalphax/starhub/StarhubApplication.class
+com/mypharmaalphax/starhub/config/SecurityConfig.class
+com/mypharmaalphax/starhub/service/UserRepository.class
+com/mypharmaalphax/starhub/model/User.class
